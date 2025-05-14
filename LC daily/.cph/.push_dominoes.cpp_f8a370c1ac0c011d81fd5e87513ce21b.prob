@@ -1,0 +1,1 @@
+{"name":"Local: push_dominoes","url":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\LC daily\\push_dominoes.cpp","tests":[{"id":1746255610439,"input":"1\n.L.R...LR..L..\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\LC daily\\push_dominoes.cpp","group":"local","local":true}

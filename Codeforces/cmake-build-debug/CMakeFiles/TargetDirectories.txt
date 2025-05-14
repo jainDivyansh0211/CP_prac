@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/CP/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir
+C:/Users/hp/Desktop/CP/Codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/CP/Codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

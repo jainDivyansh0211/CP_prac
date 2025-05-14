@@ -1,0 +1,1 @@
+{"name":"Local: 1447B","url":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\cp31-ladder\\1000\\1447B.cpp","tests":[{"id":1736778728137,"input":"2\n2 2\n-1 1\n1 1\n3 4\n0 -1 -2 -3\n-1 -2 -3 -4\n-2 -3 -4 -5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\cp31-ladder\\1000\\1447B.cpp","group":"local","local":true}

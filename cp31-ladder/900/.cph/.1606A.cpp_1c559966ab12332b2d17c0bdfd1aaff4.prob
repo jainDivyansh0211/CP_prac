@@ -1,0 +1,1 @@
+{"name":"Local: 1606A","url":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\cp31-ladder\\900\\1606A.cpp","tests":[{"id":1735834591583,"input":"4\nb\naabbbabaa\nabbb\nabbaab","output":"b\naabbbabaa\nbbbb\nabbaaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\div02\\OneDrive\\Desktop\\CP\\cp31-ladder\\900\\1606A.cpp","group":"local","local":true}
